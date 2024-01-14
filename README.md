@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I am Vikas
+I am a skilled computer science professional specializing in machine learning and AI. With a Bachelor's degree in Computer Science and a focused stream in Machine Learning and AI, I possess a deep understanding of cutting-edge technologies and their applications in solving complex problems.Throughout my academic journey, I have gained hands-on experience in designing and implementing Machine Learning and AI algorithms and utilizing statistical modelling techniques. My passion for innovation and problem-solving has led me to pursue diverse projects, including web development and software development. With a keen interest in staying up-to-date with the latest advancements in Machine Learning and AI, I am open to collaborate in creating impactful solutions and driving technological advancements in the field. I am a highly motivated and dedicated professional, always seeking opportunities to apply my expertise in this field.
 
 <h4 align="left">Programming Languages</h4>
 
